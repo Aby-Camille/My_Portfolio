@@ -1,0 +1,71 @@
+.banner,
+.banner-project {
+    background: linear-gradient(rgba(0, 0, 0, 0.2),
+            rgba(0, 0, 0, 0.2)),
+        url("../../images/Banner.jpg");
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin-bottom: 100px;
+}
+
+.banner-project {
+    height: 400px;
+}
+
+.banner h1,
+.banner-project h1 {
+    color: white;
+    font-size: 100px;
+    min-height: 200px;
+}
+
+.banner-project h1 {
+    min-height: 170px;
+}
+
+#arrow-down {
+    display: flex;
+    align-items: center;
+}
+
+.arrow-down {
+    position: absolute;
+    bottom: 9vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+i.fa-solid.fa-chevron-down {
+    position: absolute;
+    font-size: 30px;
+    color: white;
+    animation: mouse-anim 1s ease-out 0s infinite;
+}
+
+@keyframes mouse-anim {
+    0% {
+        top: 0px;
+    }
+
+    50% {
+        top: 10px;
+    }
+
+    100% {
+        top: 0px;
+    }
+}
+
+@media (max-width: 770px) {
+
+    .banner h1,
+    .banner-project h1 {
+        font-size: 60px;
+    }
+}
