@@ -11,7 +11,7 @@ export default function About() {
                     <span>Développeuse Web à Rennes</span>
                 </h2>
                 <p>
-                    <span>Après avoir obtenue un diplôme de master de recherche en chinois en 2020, je suis actuellement en reconversion professionelle</span>
+                    <span>Après avoir obtenue un diplôme de master de recherche en chinois en 2020, je suis actuellement en reconversion professionelle.</span>
                     <br />
                     <span>Suite à une formation en développement Web, je suis maintenant à la recherche d'un stage en entreprise avec une première embauche.</span>
                     <br />

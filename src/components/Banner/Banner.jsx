@@ -27,4 +27,4 @@ const [typeEffect] = useTypewriter({
         </div >
 
     )
-}
+};
