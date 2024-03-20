@@ -3,5 +3,24 @@
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 	padding: 20px;
 	border-radius: 5px;
-	margin-bottom: 20px;
+	margin-bottom: 80px;
+	width: 50%;
   }
+
+.card img {
+  width: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.span-link {
+	background-color: #1b1b1b;
+  	border: none;
+  	border-radius: 50px;
+  	color: #fff;
+  	cursor: pointer;
+  	gap: 10px;
+  	padding: 10px 20px;
+  	text-decoration: none;
+  	transition: .3s;
+}
