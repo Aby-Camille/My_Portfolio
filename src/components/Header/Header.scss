@@ -32,35 +32,33 @@
     color:#ffffff;
 }
     
-    .header .navbar img {
-        width: 250px;
-        height: auto;
-    }
+.header .navbar img {
+    width: 250px;
+    height: auto;
+}
     
-    .header .nav-menu {
-        display: flex;
-    }
+.header .nav-menu {
+    display: flex;
+}
     
-    .header .nav-item {
-        padding: 1rem;
-        font-weight: 500;
-    }
+.header .nav-item {
+    padding: 1rem;
+    font-weight: 500;
+}
     
-    .header .nav-item a:hover {
-        color:white;
-    }
+.header .nav-item a:hover {
+    color:white;
+}
     
-    .header .nav-item:hover {
-        transform: scale(1.1);    
-    }
+.header .nav-item:hover {
+    transform: scale(1.1);    
+}
 
-    .nav-item:active {
-        transform: scale(1.1);
-    }
+.nav-item:active {
+    transform: scale(1.1);
+}
     
-    .hamburger {
-        display: none;
-    }
+
     
     @media screen and (max-width:940px) {
         .header {

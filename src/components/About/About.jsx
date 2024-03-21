@@ -1,23 +1,25 @@
 import '../About/About.scss';
+import { useTranslation } from 'react-i18next'
 
 export default function About() {
+    const { t } = useTranslation();
 
     return (
         <div className='about-me-main'id='about'>
             <div className='about-me'>
                 <h2>
-                    <span>Je suis Camille Lavenant,</span>
+                    <span>{ t('about.title') }</span>
                     <br />
-                    <span>Développeuse Web à Rennes</span>
+                    <span>{ t('about.subtitle') }</span>
                 </h2>
                 <p>
-                    <span>Après avoir obtenue un diplôme de master de recherche en chinois en 2020, je suis actuellement en reconversion professionelle.</span>
+                    <span>{ t('about.1') }</span>
                     <br />
-                    <span>Suite à une formation en développement Web, je suis maintenant à la recherche d'un stage en entreprise avec une première embauche.</span>
+                    <span>{ t('about.2') }</span>
                     <br />
-                    <span>Je suis à l'aise avec l'HTML, le CSS, mais aussi le JavaScript, Node.js et React.</span>
+                    <span>{ t('about.3') }</span>
                     <br />
-                    <span>N'hésitez pas à me contacter.</span>
+                    <span>{ t('about.4') }</span>
                 </p>
             </div>
 

@@ -2,6 +2,10 @@ import '../Banner/Banner.scss';
 import { useTypewriter, Cursor } from 'react-simple-typewriter';
 import { HashLink } from 'react-router-hash-link';
 
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faAngleDown } from '@fortawesome/free-solid-svg-icons';
+
+
 export default function Banner() {
 
 const [typeEffect] = useTypewriter({
@@ -20,7 +24,7 @@ const [typeEffect] = useTypewriter({
                 </div>
                 <div className='arrow-down'>
                     <HashLink smooth to="/#about" id="arrow-down" className="arrow-down-link">
-                        <i className="fa-solid fa-chevron-down"></i>
+                        <FontAwesomeIcon icon={faAngleDown} />
                     </HashLink>
                 </div>
             </div>

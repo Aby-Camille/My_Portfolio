@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "about": "A Propos",
+    "projects": "Mes Projets",
+    "skills": "Compétences"
+  },
+  "about": {
+    "title": "Je suis Camille Lavenant,",
+    "subtitle": "Développeuse Web à Rennes",
+    "1": "Après avoir obtenue un diplôme de master de recherche en chinois en 2020, je suis actuellement en reconversion professionelle.",
+    "2": "Suite à une formation en développement Web, je suis maintenant à la recherche d'un stage en entreprise avec une première embauche.",
+    "3": "Je suis à l'aise avec l'HTML, le CSS, mais aussi le JavaScript, Node.js et React.",
+    "4": "N'hésitez pas à me contacter."
+  },
+  "my-projects": {
+    "title": "Mes projets"
+  },
+  "projects": {
+    "github": "Dépôt github",
+    "booki": {
+      "title": "Booki",
+      "content": "Site Web d'hébergement en ligne"
+    }
+  }
+}

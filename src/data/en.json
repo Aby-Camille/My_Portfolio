@@ -1,0 +1,15 @@
+{
+  "nav": {
+    "about": "About",
+    "projects": "My Projects",
+    "skills": "Skills"
+
+  },
+  "projects": {
+    "github": "Repo github",
+    "booki": {
+      "title": "Booki",
+      "content": "Home website"
+    }
+  }
+}

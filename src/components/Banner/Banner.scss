@@ -29,7 +29,10 @@
 
 #arrow-down {
     display: flex;
-    align-items: center;
+    color: white;
+    position: absolute;
+    font-size: 30px;
+    animation: mouse-anim 1s ease-out 0s infinite;
 }
 
 .arrow-down {
@@ -38,13 +41,6 @@
     color: white;
     display: flex;
     justify-content: center;
-}
-
-i.fa-solid.fa-chevron-down {
-    position: absolute;
-    font-size: 30px;
-    color: white;
-    animation: mouse-anim 1s ease-out 0s infinite;
 }
 
 @keyframes mouse-anim {
