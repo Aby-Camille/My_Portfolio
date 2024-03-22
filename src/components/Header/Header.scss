@@ -54,6 +54,22 @@
     transform: scale(1.1);    
 }
 
+.select-lng {
+    height: 30px;
+    border: none;
+    background-color: transparent;
+    font-size: 30px;
+    cursor: pointer;
+    appearance: none;
+    border-radius: 11px;
+}
+
+.icon-lng {
+    height: 30px;
+    font-size: 30px;
+    background-color: transparent;
+}
+
 .nav-item:active {
     transform: scale(1.1);
 }

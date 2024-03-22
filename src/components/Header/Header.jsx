@@ -51,10 +51,10 @@ export default function Header () {
                     <HashLink smooth to="/#my-skills" id="skills-link" className="header-link">{ t('nav.skills') }</HashLink>
                     </li>
                     <li className='nav-item'>
-                        <select name="languages" id="lang" defaultValue={selectedLanguage} onChange={chooseLanguage}>
-                            <option value="fr">🇫🇷</option>
-                            <option value="en">🇬🇧</option>
-                            <option value="zh">🇨🇳</option>
+                        <select name="languages" id="lang" className='select-lng' defaultValue={selectedLanguage} onChange={chooseLanguage}>
+                            <option value="fr" className='icon-lng'>🇫🇷</option>
+                            <option value="en" className='icon-lng'>🇬🇧</option>
+                            <option value="zh" className='icon-lng'>🇨🇳</option>
                         </select>
                     </li>
                 </ul>
