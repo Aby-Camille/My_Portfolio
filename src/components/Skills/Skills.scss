@@ -5,8 +5,6 @@
     margin-top: 50px;
     margin-bottom: 50px;
     display: flex;
-    flex-wrap: wrap;
-    align-items: flex-start;
     justify-content: center;
     gap: 3rem;
 }
@@ -21,7 +19,6 @@
     box-shadow: rgb(209, 217, 230) 5px 5px 15px, rgb(255, 255, 255) -5px -5px 15px;
     border-radius: 20px;
     position: relative;
-
 }
 
 .overlay {
@@ -43,13 +40,12 @@
   }
 
 .text {
-    color: white;
+    color: var(--white);
     font-size: 20px;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
 }
 
 .card-skills:hover {
@@ -65,3 +61,38 @@
     height: 80px;
     
 }
+
+@media (max-width: 1420px) {
+    .skills-content {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media (max-width: 970px) {
+    .icon {
+        height: 60px;
+    }
+    h3 {
+        font-size: 12px;
+    }
+
+    .text {
+        font-size:12px;
+    }
+    .card-skills:active .overlay {
+        opacity: 1;
+      }
+    
+    .card-skills:active {
+        transition: all 0.3s ease 0s;
+        transform: translateY(-3px);
+    }
+}
+
+@media (max-width: 530px) {
+    .icon {
+        height: 40px;
+    }
+}
+

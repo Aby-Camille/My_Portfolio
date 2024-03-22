@@ -8,7 +8,7 @@
 .contact {
     display: flex;
     justify-content: center;
-    color: white;
+    color: var(--white);
     padding: 1.5rem;
     font-family: Kaushan Script, helvetica;
     font-size: 18px;
@@ -41,7 +41,7 @@
     -webkit-border-radius: 42px;
     -khtml-border-radius: 42px;
     text-decoration: none;
-    color: white;
+    color: var(--white);
     font-size: 18px;
 }
 

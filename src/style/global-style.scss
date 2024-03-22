@@ -1,7 +1,47 @@
+:root {
+  --white: #ffffff;
+}
+
 ul {
     list-style-type: none;
   }
 
 a {
  text-decoration: none;
+}
+
+.a-link {
+  background-color: #1b1b1b;
+  border: none;
+  border-radius: 50px;
+  color: var(--white);
+  cursor: pointer;
+  padding: 10px 20px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.a-link:hover {
+  background-color: #4e4d4d;
+  transform: translateY(-3px);
+}
+
+h2 {
+  color: #292929;
+  font-family: Kaushan Script,helvetica;
+  font-size: 44px;
+  font-weight: 400;
+  line-height: 56px;
+  margin: 28px 0;
+  text-align: center;
+}
+
+@media (max-width: 970px) {
+  h2 {
+      font-size: 20px;
+  }
+
+  .a-link {
+    font-size: 12px;
+  }
 }

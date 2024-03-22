@@ -17,7 +17,7 @@ export default function Card({project}) {
         >
         {" "}
         <div className='span-content'>
-          <span className='span-link'>{t('projects.github')}</span>
+          <span className='a-link'>{t('projects.github')}</span>
         </div>
       </a>
     </div>

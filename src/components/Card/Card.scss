@@ -1,5 +1,5 @@
 .card {
-	background-color: white;
+	background-color: var(--white);
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 	padding: 20px;
 	border-radius: 5px;
@@ -10,7 +10,6 @@
 
 .card img {
   width: 100%;
-  object-fit: cover;
   border-radius: 10px;
 }
 
@@ -27,19 +26,8 @@
     justify-content: center;
 }
 
-.span-link {
-	background-color: #1b1b1b;
-  	border: none;
-  	border-radius: 50px;
-  	color: #fff;
-  	cursor: pointer;
-  	gap: 10px;
-  	padding: 10px 20px;
-  	text-decoration: none;
-  	transition: .3s;
-}
-
-.span-link:hover {
-	background-color: #4e4d4d;
-	transform: translateY(-3px);
-}
+@media (max-width: 970px) {
+	.card-content {
+		font-size: 12px;
+	}
+  }
