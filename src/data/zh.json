@@ -1,0 +1,54 @@
+{
+    "nav": {
+      "about": "关于我",
+      "projects": "我的项目",
+      "skills": "我的技能"
+    },
+    "about": {
+      "title": "我是 Camille Lavenant (中文名字是米莉),",
+      "subtitle": "住在雷恩的软件开发人员",
+      "1": "2020年获得中文研究型硕士学位后, 目前正在经历专业再培训.",
+      "2": "在接受了网络开发培训后，我现在正在一家拥有第一份工作的公司寻找实习机会.",
+      "3": "我习惯用 HTML, CSS, 也习惯用 JavaScript, Node.js 和 React.",
+      "4": "请随时与我联系."
+    },
+    "my-projects": {
+      "title": "我的项目"
+    },
+    "projects": {
+      "github": "Github 存储库",
+      "booki": {
+        "title": "Booki",
+        "content": "Création d'une page d'accueil d'un site d'hébergements en ligne avec HTML & CSS"
+      },
+      "sophie": {
+        "title": "Portfolio Sophie Bluel",
+        "content": "Création d'une page web dynamique d'un site de photographie avec Javascript"
+      },
+      "carducci": {
+        "title": "Portfolio Nina Carducci",
+        "content": "Débugger et optimiser un site de photographie avec Lighthouse & Wave"
+      },
+      "kasa": {
+        "title": "Kasa",
+        "content": "Création d'une application web de location immobilière avec la librairie javascript React"
+      },
+      "grimoire": {
+        "title": "Mon Vieux Grimoire",
+        "content": "Développement du back-end d'un site de notation de livres avec MongoDB, Node.js et Express"
+      }
+    },
+    "my-skills": {
+      "title": "我的技能",
+      "1": "前端网页开发技能",
+      "p1": "响应式界面",
+      "p2": "Jsx 文件",
+      "p3": "Json 数据",
+      "2": "后端网络开发技能",
+      "p4": "数据安全",
+      "3": "SEO 技能",
+      "p5": "敏捷方法",
+      "p6": "优化",
+      "p7": "调试"
+    }
+  }

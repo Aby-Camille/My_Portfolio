@@ -8,7 +8,7 @@ export default function Card({project}) {
     return <div className="card">
       <h2>{t(project.title)}</h2>
       <img src={project.images} alt={project.imageAlt} />
-      <p>{t(project.content)}</p>
+      <p className='card-content'>{t(project.content)}</p>
       <a
         href={project.sourceCode}
         className="tag"
@@ -16,7 +16,9 @@ export default function Card({project}) {
         rel="noopener noreferrer"
         >
         {" "}
-        <span className='span-link'>{t('projects.github')}</span>
+        <div className='span-content'>
+          <span className='span-link'>{t('projects.github')}</span>
+        </div>
       </a>
     </div>
 };

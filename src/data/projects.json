@@ -7,29 +7,29 @@
       "sourceCode": "https://github.com/Aby-Camille/Openclassrooms_Project2"
     },
     {
-        "title": "Sophie Bluel",
-        "content": "This is the website you are on, it was the last project I had to do during my learning",
+        "title": "projects.sophie.title",
+        "content": "projects.sophie.content",
         "images": "../images/Sophie.jpg",
         "imageAlt": "photo website",
         "sourceCode": "https://github.com/Aby-Camille/Openclassrooms_Project3"
       },
       {
-        "title": "Nina Carducci",
-        "content": "Site Web portfolio de photographe",
+        "title": "projects.carducci.title",
+        "content": "projects.carducci.content",
         "images": "../images/Carducci.jpg",
         "imageAlt": "photo website",
         "sourceCode": "https://github.com/Aby-Camille/Openclassrooms_Project5"
       },
       {
-        "title": "Kasa",
-        "content": "Créez une application web de location immobilière avec React",
+        "title": "projects.kasa.title",
+        "content": "projects.kasa.content",
         "images": "../images/Kasa.png",
         "imageAlt": "photo website",
         "sourceCode": "https://github.com/Aby-Camille/Openclassrooms_Project6"
       },
       {
-        "title": "Mon vieux grimoire",
-        "content": "Site web de bibliothèque en ligne",
+        "title": "projects.grimoire.title",
+        "content": "projects.grimoire.content",
         "images": "../images/Grimoire.png",
         "imageAlt": "photo website",
         "sourceCode": "https://github.com/Aby-Camille/Openclassrooms_Project7"

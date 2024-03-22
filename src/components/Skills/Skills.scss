@@ -2,12 +2,13 @@
     padding-top: 100px;
 }
 .skills-content {
+    margin-top: 50px;
+    margin-bottom: 50px;
     display: flex;
     flex-wrap: wrap;
     align-items: flex-start;
     justify-content: center;
     gap: 3rem;
-    flex: 3;
 }
 .card-skills {
     display: flex;
@@ -19,6 +20,7 @@
     background: linear-gradient(145deg, rgb(226, 232, 236), rgb(255, 255, 255));
     box-shadow: rgb(209, 217, 230) 5px 5px 15px, rgb(255, 255, 255) -5px -5px 15px;
     border-radius: 20px;
+    position: relative;
 
 }
 
@@ -32,7 +34,7 @@
     width: 100%;
     opacity: 0;
     transition: .5s ease;
-    background-color: #838586;
+    background-color: #888989;
     border-radius: 20px;
 }
 
@@ -40,9 +42,18 @@
     opacity: 1;
   }
 
+.text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+
 .card-skills:hover {
     transition: all 0.3s ease 0s;
-    background: rgb(176, 176, 176);
     transform: translateY(-3px);
 }
 

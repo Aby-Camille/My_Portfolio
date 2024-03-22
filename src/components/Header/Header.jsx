@@ -48,7 +48,7 @@ export default function Header () {
                     <HashLink smooth to="/#my-projects" id="projects-link" className="header-link">{ t('nav.projects') }</HashLink>
                     </li>
                     <li className='nav-item'>
-                    <HashLink smooth to="/#skills" id="skills-link" className="header-link">{ t('nav.skills') }</HashLink>
+                    <HashLink smooth to="/#my-skills" id="skills-link" className="header-link">{ t('nav.skills') }</HashLink>
                     </li>
                     <li className='nav-item'>
                         <select name="languages" id="lang" defaultValue={selectedLanguage} onChange={chooseLanguage}>

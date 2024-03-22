@@ -2,6 +2,7 @@ import i18n from "i18next";
 import { initReactI18next } from "react-i18next";
 import translationsInFr from './data/fr.json';
 import translationsInEn from './data/en.json';
+import translationsInZh from './data/zh.json';
 
 const resources = {
     fr: {
@@ -10,6 +11,9 @@ const resources = {
     en: {
       translation: translationsInEn
     },
+    zh: {
+      translation: translationsInZh
+    }
   };
   
   i18n
@@ -18,7 +22,7 @@ const resources = {
       resources, // resources are important to load translations for the languages.
       lng: "fr", // It acts as default language. When the site loads, content is shown in this language.  
       debug: true,
-      fallbackLng: "en", // use de if selected language is not available
+      fallbackLng: "en", // use en if selected language is not available
       interpolation: {
         escapeValue: false
       },
