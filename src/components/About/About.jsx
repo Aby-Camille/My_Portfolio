@@ -24,7 +24,7 @@ export default function About() {
                     <br />
                 </p>
                 <div className='content-link'>
-                    <a href={cvLink} download="CV_Camille_Lavenant_2024.pdf" className='a-link' >Télécharger mon CV</a>
+                    <a href={cvLink} download="CV_Camille_Lavenant_2024.pdf" className='a-link' >{ t('about.5') }</a>
                 </div>
             </div>
         </section>

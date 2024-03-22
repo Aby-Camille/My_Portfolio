@@ -10,7 +10,8 @@
     "1": "After obtaining a research master's degree in Chinese in 2020, I am currently undergoing professional retraining.",
     "2": "Following training in web development, I am now looking for an internship in a company with a first job.",
     "3": "I am comfortable with HTML, CSS, but also JavaScript, Node.js and React.",
-    "4": "Do not hesitate to contact me."
+    "4": "Do not hesitate to contact me.",
+    "5": "Download my CV"
   },
   "my-projects": {
     "title": "My Projects"
@@ -50,5 +51,8 @@
     "p5": "Agile approach",
     "p6": "Optimisation",
     "p7": "Debug"
-  }
+  },
+  "footer": {
+    "1": "Contact"
+ }
 }

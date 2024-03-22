@@ -10,7 +10,8 @@
     "1": "Après avoir obtenue un diplôme de master de recherche en chinois en 2020, je suis actuellement en reconversion professionelle.",
     "2": "Suite à une formation en développement Web, je suis maintenant à la recherche d'un stage en entreprise avec une première embauche.",
     "3": "Je suis à l'aise avec l'HTML, le CSS, mais aussi le JavaScript, Node.js et React.",
-    "4": "N'hésitez pas à me contacter."
+    "4": "N'hésitez pas à me contacter.",
+    "5": "Télécharger mon CV"
   },
   "my-projects": {
     "title": "Mes projets"
@@ -50,5 +51,8 @@
     "p5": "Méthode agile",
     "p6": "Optimisation",
     "p7": "Débug"
+  },
+  "footer": {
+     "1": "Contact"
   }
 }
