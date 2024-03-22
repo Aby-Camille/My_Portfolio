@@ -59,6 +59,11 @@
     border-radius: 11px;
 }
 
+select:focus-visible {
+    outline: none;
+    box-shadow: none;
+}
+
 .icon-lng {
     height: 30px;
     font-size: 30px;
@@ -91,7 +96,7 @@
     }
     .header .nav-menu {
         position: fixed;
-        top: 20px;
+        top: 15px;
         padding-left: 0;
     }
     .header .nav-menu a {
