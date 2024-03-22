@@ -2,35 +2,35 @@
     {
       "title": "projects.booki.title",
       "content": "projects.booki.content",
-      "images": "../images/Booki.png",
+      "images": "../images/Booki.webp",
       "imageAlt": "photo website",
       "sourceCode": "https://github.com/Aby-Camille/Openclassrooms_Project2"
     },
     {
         "title": "projects.sophie.title",
         "content": "projects.sophie.content",
-        "images": "../images/Sophie.jpg",
+        "images": "../images/Sophie.webp",
         "imageAlt": "photo website",
         "sourceCode": "https://github.com/Aby-Camille/Openclassrooms_Project3"
       },
       {
         "title": "projects.carducci.title",
         "content": "projects.carducci.content",
-        "images": "../images/Carducci.jpg",
+        "images": "../images/Carducci.webp",
         "imageAlt": "photo website",
         "sourceCode": "https://github.com/Aby-Camille/Openclassrooms_Project5"
       },
       {
         "title": "projects.kasa.title",
         "content": "projects.kasa.content",
-        "images": "../images/Kasa.png",
+        "images": "../images/Kasa.webp",
         "imageAlt": "photo website",
         "sourceCode": "https://github.com/Aby-Camille/Openclassrooms_Project6"
       },
       {
         "title": "projects.grimoire.title",
         "content": "projects.grimoire.content",
-        "images": "../images/Grimoire.png",
+        "images": "../images/Grimoire.webp",
         "imageAlt": "photo website",
         "sourceCode": "https://github.com/Aby-Camille/Openclassrooms_Project7"
       }
