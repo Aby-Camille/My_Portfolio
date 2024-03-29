@@ -26,12 +26,12 @@
     "sophie": {
       "title": "Portfolio Sophie Bluel",
       "content": "Création d'une page web dynamique d'un site de photographie avec Javascript",
-      "info": "Découverte du language Javascript pour réaliser une page dynamique en récupérant des données utilisateurs via des formulaires. Apprentissage de la manipulation du DOM et gestion des événements utilisateurs. "
+      "info": "Découverte du language Javascript pour réaliser une page dynamique en récupérant des données utilisateurs via des formulaires. Apprentissage de la manipulation du DOM et gestion des événements utilisateurs."
     },
     "carducci": {
       "title": "Portfolio Nina Carducci",
       "content": "Débugger et optimiser un site de photographie avec Lighthouse & Wave",
-      "info": "Apprentissage des techniques de SEO avec Lighhouse et Wave. Mise en place de conversion de fichiers (webp, avi), lazy loading, accessibilité de la page avec référencement et balises méta, minification de code et débug. "
+      "info": "Apprentissage des techniques de SEO avec Lighhouse et Wave. Mise en place de conversion de fichiers (webp, avi), lazy loading, accessibilité de la page avec référencement et balises méta, minification de code et débogage. "
     },
     "kasa": {
       "title": "Kasa",
@@ -48,14 +48,14 @@
     "title": "Mes compétences",
     "1": "Compétences Front-end",
     "p1": "Interface responsive",
-    "p2": "Fichier JSX",
-    "p3": "Données JSON",
+    "p2": "Javascript Vanilla",
+    "p3": "Figma",
     "2": "Compétences Back-end",
     "p4": "Sécurité des données",
-    "3": "Compétences SEO",
+    "3": "Divers",
     "p5": "Méthode agile",
     "p6": "Optimisation",
-    "p7": "Débug"
+    "p7": "Debogage"
   },
   "footer": {
      "1": "Contact"

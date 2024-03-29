@@ -110,12 +110,12 @@ background-color: rgba(0,0,0,.7);
       transform: translateX(0);
     }
     40% {
-      -webkit-transform: translateX(-30px);
-      transform: translateX(-30px);
+      -webkit-transform: translateX(-20px);
+      transform: translateX(-20px);
     }
     60% {
-      -webkit-transform: translateX(-15px);
-      transform: translateX(-15px);
+      -webkit-transform: translateX(-10px);
+      transform: translateX(-10px);
     }
   }
   @-moz-keyframes bounceRight {
@@ -127,10 +127,10 @@ background-color: rgba(0,0,0,.7);
       transform: translateX(0);
     }
     40% {
-      transform: translateX(-30px);
+      transform: translateX(-20px);
     }
     60% {
-      transform: translateX(-15px);
+      transform: translateX(-10px);
     }
   }
   @keyframes bounceRight {
@@ -143,12 +143,12 @@ background-color: rgba(0,0,0,.7);
       transform: translateX(0);
     }
     40% {
-      -ms-transform: translateX(-30px);
-      transform: translateX(-30px);
+      -ms-transform: translateX(-20px);
+      transform: translateX(-20px);
     }
     60% {
-      -ms-transform: translateX(-15px);
-      transform: translateX(-15px);
+      -ms-transform: translateX(-10px);
+      transform: translateX(-10px);
     }
 }
 
@@ -162,12 +162,12 @@ background-color: rgba(0,0,0,.7);
       transform: translateX(0);
     }
     40% {
-      -webkit-transform: translateX(30px);
-      transform: translateX(30px);
+      -webkit-transform: translateX(20px);
+      transform: translateX(20px);
     }
     60% {
-      -webkit-transform: translateX(15px);
-      transform: translateX(15px);
+      -webkit-transform: translateX(10px);
+      transform: translateX(10px);
     }
   }
   @-moz-keyframes bounceLeft {
@@ -179,10 +179,10 @@ background-color: rgba(0,0,0,.7);
       transform: translateX(0);
     }
     40% {
-      transform: translateX(30px);
+      transform: translateX(20px);
     }
     60% {
-      transform: translateX(15px);
+      transform: translateX(10px);
     }
   }
   @keyframes bounceLeft {
@@ -195,12 +195,12 @@ background-color: rgba(0,0,0,.7);
       transform: translateX(0);
     }
     40% {
-      -ms-transform: translateX(30px);
-      transform: translateX(30px);
+      -ms-transform: translateX(20px);
+      transform: translateX(20px);
     }
     60% {
-      -ms-transform: translateX(15px);
-      transform: translateX(15px);
+      -ms-transform: translateX(10px);
+      transform: translateX(10px);
     }
 }
 
