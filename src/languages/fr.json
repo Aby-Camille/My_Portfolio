@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "about": "A Propos",
+    "projects": "Mes Projets",
+    "skills": "Compétences"
+  },
+  "about": {
+    "title": "Je suis Camille Lavenant,",
+    "subtitle": "Développeuse Web à Rennes",
+    "1": "Après avoir obtenue un diplôme de master de recherche en chinois en 2020, je suis actuellement en reconversion professionelle.",
+    "2": "Suite à une formation en développement Web, je suis maintenant à la recherche d'un stage en entreprise avec une première embauche.",
+    "3": "Je suis à l'aise avec l'HTML, le CSS, le JavaScript, Node.js et React.",
+    "4": "N'hésitez pas à me contacter.",
+    "5": "Télécharger mon CV"
+  },
+  "my-projects": {
+    "title": "Mes projets"
+  },
+  "projects": {
+    "github": "Dépôt github",
+    "booki": {
+      "title": "Booki",
+      "content": "Création d'une page d'accueil d'un site d'hébergements en ligne avec HTML & CSS.",
+      "info": "Tout premier projet réalisé avec l'aide d'une maquette Figma. Découverte de git, github et apprentissage de html, css ainsi que des média queries pour réaliser une page en responsive."
+    },
+    "sophie": {
+      "title": "Portfolio Sophie Bluel",
+      "content": "Création d'une page web dynamique d'un site de photographie avec Javascript",
+      "info": "Découverte du language Javascript pour réaliser une page dynamique en récupérant des données utilisateurs via des formulaires. Apprentissage de la manipulation du DOM et gestion des événements utilisateurs. "
+    },
+    "carducci": {
+      "title": "Portfolio Nina Carducci",
+      "content": "Débugger et optimiser un site de photographie avec Lighthouse & Wave",
+      "info": "Apprentissage des techniques de SEO avec Lighhouse et Wave. Mise en place de conversion de fichiers (webp, avi), lazy loading, accessibilité de la page avec référencement et balises méta, minification de code et débug. "
+    },
+    "kasa": {
+      "title": "Kasa",
+      "content": "Création d'une application web de location immobilière avec la librairie javascript React",
+      "info": "Apprentissage de la librairie React avec développement d'éléments d'interface à l'aide de composants. Configuration de la navigation entre les pages à l'aide de React Router."
+    },
+    "grimoire": {
+      "title": "Mon Vieux Grimoire",
+      "content": "Développement du back-end d'un site de notation de livres avec MongoDB, Node.js et Express",
+      "info": "Utilisation de Node.js avec Express et Nodemon pour réaliser le back-end du site. Implémentation d'un modèle de données conforme et connexion à la base de données avec Mongoose, utilisation des opérations CRUD. Stockage de données sécurisées dans MongoDB Atlas et hashage de mot de passe avec bcrypt."
+    }
+  },
+  "my-skills": {
+    "title": "Mes compétences",
+    "1": "Compétences Front-end",
+    "p1": "Interface responsive",
+    "p2": "Fichier Jsx",
+    "p3": "Données Json",
+    "2": "Compétences Back-end",
+    "p4": "Sécurité des données",
+    "3": "Compétences SEO",
+    "p5": "Méthode agile",
+    "p6": "Optimisation",
+    "p7": "Débug"
+  },
+  "footer": {
+     "1": "Contact"
+  }
+}

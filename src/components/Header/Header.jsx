@@ -2,6 +2,9 @@ import { NavLink } from 'react-router-dom';
 import React, { useState } from 'react';
 import { HashLink } from 'react-router-hash-link';
 
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faAngleLeft, faAngleRight } from '@fortawesome/free-solid-svg-icons';
+
 import i18n from '../../i18n';
 import { useTranslation } from 'react-i18next'
 
@@ -51,11 +54,15 @@ export default function Header () {
                     <HashLink smooth to="/#my-skills" id="skills-link" className="header-link">{ t('nav.skills') }</HashLink>
                     </li>
                     <li className='nav-item'>
-                        <select name="languages" id="lang" className='select-lng' defaultValue={selectedLanguage} onChange={chooseLanguage}>
-                            <option value="fr" className='icon-lng'>🇫🇷</option>
-                            <option value="en" className='icon-lng'>🇬🇧</option>
-                            <option value="zh" className='icon-lng'>🇨🇳</option>
+                        <label className='label-icon'>
+                        <FontAwesomeIcon icon={faAngleRight} id="arrow-right" />
+                        <select name="languages" id="lang" className='select-lng' aria-label="select-lng" defaultValue={selectedLanguage} onChange={chooseLanguage}>
+                            <option value="fr" className='icon-lng'>Français</option>
+                            <option value="en" className='icon-lng'>English</option>
+                            <option value="zh" className='icon-lng'>汉语</option>
                         </select>
+                        <FontAwesomeIcon icon={faAngleLeft} id="arrow-left" />
+                        </label>
                     </li>
                 </ul>
             </nav>

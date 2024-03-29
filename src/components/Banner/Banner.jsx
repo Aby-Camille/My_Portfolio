@@ -23,7 +23,7 @@ const [typeEffect] = useTypewriter({
                     <h1>{typeEffect}<Cursor/></h1>   
                 </div>
                 <div className='arrow-down'>
-                    <HashLink smooth to="/#about" id="arrow-down" className="arrow-down-link">
+                    <HashLink smooth to="/#about" id="arrow-down" className="arrow-down-link" aria-label="Arrow-down">
                         <FontAwesomeIcon icon={faAngleDown} />
                     </HashLink>
                 </div>

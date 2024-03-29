@@ -20,23 +20,28 @@
       "github": "Github 存储库",
       "booki": {
         "title": "Booki",
-        "content": "使用 HTML 和 CSS 创建在线住宿网站的主页"
+        "content": "使用 HTML 和 CSS 创建在线住宿网站的主页",
+        "info": "第一个项目是在 Figma 模型的帮助下完成的. 发现 git, github 并学习 html, css 以及媒体查询以创建响应式页面."
       },
       "sophie": {
         "title": "Portfolio Sophie Bluel",
-        "content": "使用 Javascript 为摄影网站创建动态网页"
+        "content": "使用 Javascript 为摄影网站创建动态网页",
+        "info": "发现 Javascript 语言, 通过表单检索用户数据来创建动态页面. 学习如何操作 DOM 和管理用户事件."
       },
       "carducci": {
         "title": "Portfolio Nina Carducci",
-        "content": "使用 Lighthouse & Wave 调试和优化摄影网站"
+        "content": "使用 Lighthouse & Wave 调试和优化摄影网站",
+        "info": "使用 Lighthouse 和 Wave 学习 SEO 技术. 实现文件转换（webp, avi）, 延迟加载, 带有引用和元标记的页面可访问性, 代码精简和调试."
       },
       "kasa": {
         "title": "Kasa",
-        "content": "使用 React 一个 javascript 库为创建房地产租赁网站应用程序"
+        "content": "使用 React 一个 javascript 库为创建房地产租赁网站应用程序",
+        "info": "通过使用组件开发界面元素来学习 React 库. 使用 React Router 设置页面之间的导航."
       },
       "grimoire": {
         "title": "Mon Vieux Grimoire",
-        "content": "使用 MongoDB, Node.js 和 Express 开发图书评级网站的后端"
+        "content": "使用 MongoDB, Node.js 和 Express 开发图书评级网站的后端",
+        "info": "使用 Node.js 与 Express 和 Nodemon 来创建网站的后端. 实现了兼容的数据模型并使用Mongoose连接到数据库, 使用CRUD操作. 使用 bcrypt 保护 MongoDB Atlas 中的数据存储和密码散列."
       }
     },
     "my-skills": {

@@ -3,25 +3,25 @@
     background-color: rgba(0,0,0,.8);
     width: 100%;
     flex-direction: column;
-}
 
-.contact {
+
+    & .contact {
     display: flex;
     justify-content: center;
     color: var(--white);
     padding: 1.5rem;
     font-family: Kaushan Script, helvetica;
     font-size: 18px;
-}
+    }
 
-.list-social-media {
+    & .list-social-media {
     display: flex;
     justify-content: center;
     gap: 40px;
     padding: 0px;
-}
+    }
 
-.a-social-media {
+    & .a-social-media {
     margin: auto;
     position: relative;
     display: inline-block;
@@ -43,8 +43,10 @@
     text-decoration: none;
     color: var(--white);
     font-size: 18px;
-}
+    }
 
-.a-social-media:hover {
+    & .a-social-media:hover {
     border: 1px solid #7c7c7c;
+    }
+
 }

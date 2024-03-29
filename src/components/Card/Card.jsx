@@ -7,8 +7,9 @@ export default function Card({project}) {
 
     return <div className="card">
       <h2>{t(project.title)}</h2>
-      <img src={project.images} alt={project.imageAlt} />
+      <img src={project.images} alt={project.imageAlt} loading="lazy" />
       <p className='card-content'>{t(project.content)}</p>
+      <p className='card-info'>{t(project.info)}</p>
       <a
         href={project.sourceCode}
         className="tag"

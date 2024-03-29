@@ -2,22 +2,22 @@
     display: flex;
     justify-content: center;
     padding-top: 100px;
-}
 
-.about-content {
+    & .about-content {
     padding: 20px;
     font-size: large;
-}
+    }
 
-.content-link {
+
+    & .content-link {
     display: flex;
     justify-content: center;
     padding: 20px;
+    }
 }
 
-
 @media (max-width: 970px) {
-    .about-content {
+    .about-me-main .about-content {
         font-size: small;
     }
 }

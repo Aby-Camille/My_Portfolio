@@ -2,36 +2,41 @@
     {
       "title": "projects.booki.title",
       "content": "projects.booki.content",
+      "info": "projects.booki.info",
       "images": "../images/Booki.webp",
-      "imageAlt": "photo website",
+      "imageAlt": "photo booki website",
       "sourceCode": "https://github.com/Aby-Camille/Openclassrooms_Project2"
     },
     {
         "title": "projects.sophie.title",
         "content": "projects.sophie.content",
+        "info": "projects.sophie.info",
         "images": "../images/Sophie.webp",
-        "imageAlt": "photo website",
+        "imageAlt": "photo sophie website",
         "sourceCode": "https://github.com/Aby-Camille/Openclassrooms_Project3"
       },
       {
         "title": "projects.carducci.title",
         "content": "projects.carducci.content",
+        "info": "projects.carducci.info",
         "images": "../images/Carducci.webp",
-        "imageAlt": "photo website",
+        "imageAlt": "photo carducci website",
         "sourceCode": "https://github.com/Aby-Camille/Openclassrooms_Project5"
       },
       {
         "title": "projects.kasa.title",
         "content": "projects.kasa.content",
+        "info": "projects.kasa.info",
         "images": "../images/Kasa.webp",
-        "imageAlt": "photo website",
+        "imageAlt": "photo kasa website",
         "sourceCode": "https://github.com/Aby-Camille/Openclassrooms_Project6"
       },
       {
         "title": "projects.grimoire.title",
         "content": "projects.grimoire.content",
+        "info": "projects.grimoire.info",
         "images": "../images/Grimoire.webp",
-        "imageAlt": "photo website",
+        "imageAlt": "photo grimoire website",
         "sourceCode": "https://github.com/Aby-Camille/Openclassrooms_Project7"
       }
   ]

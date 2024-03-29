@@ -1,5 +1,4 @@
-.banner,
-.banner-project {
+.banner {
     background: linear-gradient(rgba(0, 0, 0, 0.2),
             rgba(0, 0, 0, 0.2)),
         url("../../../public/images/Banner.webp");
@@ -10,36 +9,27 @@
     display: flex;
     flex-direction: column;
     height: 100vh;
-}
 
-.banner-project {
-    height: 400px;
-}
-
-.banner h1,
-.banner-project h1 {
+    & h1 {
     color: var(--white);
     font-size: 100px;
     min-height: 200px;
-}
-
-.banner-project h1 {
-    min-height: 170px;
-}
-
-#arrow-down {
-    display: flex;
-    color: var(--white);
-    position: absolute;
-    font-size: 30px;
-    animation: mouse-anim 1s ease-out 0s infinite;
-    justify-content: center;
+    }
 }
 
 .arrow-down {
     position: absolute;
     bottom: 9vh;
     display: flex;
+
+    & #arrow-down {
+    display: flex;
+    color: var(--white);
+    position: absolute;
+    font-size: 30px;
+    animation: mouse-anim 1s ease-out 0s infinite;
+    justify-content: center;
+    }
 }
 
 @keyframes mouse-anim {
