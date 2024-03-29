@@ -3,7 +3,7 @@
       "title": "projects.booki.title",
       "content": "projects.booki.content",
       "info": "projects.booki.info",
-      "images": "https://raw.githubusercontent.com/Aby-Camille/Openclassrooms_Project8/master/public/images/Booki.webp",
+      "images": "https://raw.githubusercontent.com/Aby-Camille/Openclassrooms_Project8/master/src/images/Booki.webp",
       "imageAlt": "photo booki website",
       "sourceCode": "https://github.com/Aby-Camille/Openclassrooms_Project2"
     },
@@ -11,7 +11,7 @@
         "title": "projects.sophie.title",
         "content": "projects.sophie.content",
         "info": "projects.sophie.info",
-        "images": "https://raw.githubusercontent.com/Aby-Camille/Openclassrooms_Project8/master/public/images/Sophie.webp",
+        "images": "https://raw.githubusercontent.com/Aby-Camille/Openclassrooms_Project8/master/src/images/Sophie.webp",
         "imageAlt": "photo sophie website",
         "sourceCode": "https://github.com/Aby-Camille/Openclassrooms_Project3"
       },
@@ -19,7 +19,7 @@
         "title": "projects.carducci.title",
         "content": "projects.carducci.content",
         "info": "projects.carducci.info",
-        "images": "https://raw.githubusercontent.com/Aby-Camille/Openclassrooms_Project8/master/public/images/Carducci.webp",
+        "images": "https://raw.githubusercontent.com/Aby-Camille/Openclassrooms_Project8/master/src/images/Carducci.webp",
         "imageAlt": "photo carducci website",
         "sourceCode": "https://github.com/Aby-Camille/Openclassrooms_Project5"
       },
@@ -27,7 +27,7 @@
         "title": "projects.kasa.title",
         "content": "projects.kasa.content",
         "info": "projects.kasa.info",
-        "images": "https://raw.githubusercontent.com/Aby-Camille/Openclassrooms_Project8/master/public/images/Kasa.webp",
+        "images": "https://raw.githubusercontent.com/Aby-Camille/Openclassrooms_Project8/master/src/images/Kasa.webp",
         "imageAlt": "photo kasa website",
         "sourceCode": "https://github.com/Aby-Camille/Openclassrooms_Project6"
       },
@@ -35,7 +35,7 @@
         "title": "projects.grimoire.title",
         "content": "projects.grimoire.content",
         "info": "projects.grimoire.info",
-        "images": "https://raw.githubusercontent.com/Aby-Camille/Openclassrooms_Project8/master/public/images/Grimoire.webp",
+        "images": "https://raw.githubusercontent.com/Aby-Camille/Openclassrooms_Project8/master/src/images/Grimoire.webp",
         "imageAlt": "photo grimoire website",
         "sourceCode": "https://github.com/Aby-Camille/Openclassrooms_Project7"
       }
