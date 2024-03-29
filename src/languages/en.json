@@ -6,7 +6,7 @@
   },
   "about": {
     "title": "I'm Camille Lavenant,",
-    "subtitle": "Web developer in Rennes",
+    "subtitle": "Web Developer in Rennes",
     "1": "After obtaining a research Master's degree in Chinese in 2020, I am currently undergoing professional retraining.",
     "2": "Following my training in web development, I am now looking for an internship in the field, with the goal to convert it to a full time job.",
     "3": "I am proficient in HTML, CSS, JavaScript, Node.js and React.",
@@ -48,14 +48,14 @@
     "title": "My skills",
     "1": "Front-end skills",
     "p1": "Responsive interface",
-    "p2": "Jsx files",
-    "p3": "Json data",
+    "p2": "JSX files",
+    "p3": "JSON data",
     "2": "Back-end skills",
-    "p4": "Data security",
+    "p4": "Data Security",
     "3": "SEO skills",
     "p5": "Agile approach",
     "p6": "Optimisation",
-    "p7": "Debug"
+    "p7": "Debugging"
   },
   "footer": {
     "1": "Contact"

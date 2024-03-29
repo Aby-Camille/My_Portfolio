@@ -1,9 +1,9 @@
 import '../About/About.scss';
-import { useTranslation } from 'react-i18next'
+import { useTranslation } from 'react-i18next';
+import cvLink from "../../assets/CV_Camille_Lavenant_2024.pdf";
 
 export default function About() {
     const { t } = useTranslation();
-    const cvLink = "/CV_Camille_Lavenant_2024.pdf";
 
     return (
         <section className='about-me-main'id='about'>
