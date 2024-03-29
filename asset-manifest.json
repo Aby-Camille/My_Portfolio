@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Openclassrooms_Project8/static/css/main.da63ac4d.css",
-    "main.js": "/Openclassrooms_Project8/static/js/main.4ecec32f.js",
+    "main.js": "/Openclassrooms_Project8/static/js/main.0896e784.js",
     "static/js/453.acca0757.chunk.js": "/Openclassrooms_Project8/static/js/453.acca0757.chunk.js",
     "static/media/CV_Camille_Lavenant_2024.pdf": "/Openclassrooms_Project8/static/media/CV_Camille_Lavenant_2024.87ee9aeb449be6b5827c.pdf",
     "static/media/Banner.webp": "/Openclassrooms_Project8/static/media/Banner.33466456cf7dcd2f0665.webp",
@@ -17,11 +17,11 @@
     "static/media/css.svg": "/Openclassrooms_Project8/static/media/css.315b8fdb9dbf75ae965b80bf368895cd.svg",
     "static/media/html.svg": "/Openclassrooms_Project8/static/media/html.0107c93943a8f415b5db64ebb0a9d12d.svg",
     "main.da63ac4d.css.map": "/Openclassrooms_Project8/static/css/main.da63ac4d.css.map",
-    "main.4ecec32f.js.map": "/Openclassrooms_Project8/static/js/main.4ecec32f.js.map",
+    "main.0896e784.js.map": "/Openclassrooms_Project8/static/js/main.0896e784.js.map",
     "453.acca0757.chunk.js.map": "/Openclassrooms_Project8/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da63ac4d.css",
-    "static/js/main.4ecec32f.js"
+    "static/js/main.0896e784.js"
   ]
 }
