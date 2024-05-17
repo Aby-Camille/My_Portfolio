@@ -4,7 +4,7 @@ Création d'une single page personnelle avec React (intégration de i18n, typewr
 
 ![image](https://github.com/Aby-Camille/Openclassrooms_Project8/blob/master/src/images/My-portfolio.png)
 
-https://aby-camille.github.io/Openclassrooms_Project8/
+https://aby-camille.github.io/My_Portfolio/
 
 ## Skills & IDE
 
