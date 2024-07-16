@@ -18,11 +18,6 @@
   },
   "projects": {
     "github": "Dépôt github",
-    "booki": {
-      "title": "Booki",
-      "content": "Création d'une page d'accueil d'un site d'hébergements en ligne avec HTML & CSS.",
-      "info": "Tout premier projet réalisé avec l'aide d'une maquette Figma. Découverte de git, github et apprentissage de html, css ainsi que des média queries pour réaliser une page en responsive."
-    },
     "sophie": {
       "title": "Portfolio Sophie Bluel",
       "content": "Création d'une page web dynamique d'un site de photographie avec Javascript",
@@ -42,6 +37,11 @@
       "title": "Mon Vieux Grimoire",
       "content": "Développement du back-end d'un site de notation de livres avec MongoDB, Node.js et Express",
       "info": "Utilisation de Node.js avec Express et Nodemon pour réaliser le back-end du site. Implémentation d'un modèle de données conforme et connexion à la base de données avec Mongoose, utilisation des opérations CRUD. Stockage de données sécurisées dans MongoDB Atlas et hashage de mot de passe avec bcrypt."
+    },
+    "flix": {
+      "title": "Myflix",
+      "content": "Création d'un site de streaming de films de type media center",
+      "info": "Il s'agit de mon nouveau projet personnel en cours. Inspiré du style Netflix, ce projet est réalisé avec le framework Next.js (React & Node), Typescript, Tailwind css, MongoDB, Prisma et Vercel."
     }
   },
   "my-skills": {

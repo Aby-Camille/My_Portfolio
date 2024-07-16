@@ -18,11 +18,6 @@
     },
     "projects": {
       "github": "Github 存储库",
-      "booki": {
-        "title": "Booki",
-        "content": "使用 HTML 和 CSS 创建在线住宿网站的主页",
-        "info": "第一个项目是在 Figma 模型的帮助下完成的. 发现 git, github 并学习 html, css 以及媒体查询以创建响应式页面."
-      },
       "sophie": {
         "title": "Portfolio Sophie Bluel",
         "content": "使用 Javascript 为摄影网站创建动态网页",
@@ -42,6 +37,11 @@
         "title": "Mon Vieux Grimoire",
         "content": "使用 MongoDB, Node.js 和 Express 开发图书评级网站的后端",
         "info": "使用 Node.js 与 Express 和 Nodemon 来创建网站的后端. 实现了兼容的数据模型并使用Mongoose连接到数据库, 使用CRUD操作. 使用 bcrypt 保护 MongoDB Atlas 中的数据存储和密码散列."
+      },
+      "flix": {
+        "title": "Myflix",
+        "content": "创建媒体中心类型的电影流媒体网站",
+        "info": "这是我正在进行的新个人项目. 受 Netflix 风格的启发, 该项目使用 Next.js 框架(React 和 Node), Typescript, Tailwind css, MongoDB, Prisma 和 Vercel 进行."
       }
     },
     "my-skills": {
