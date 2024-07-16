@@ -1,13 +1,5 @@
 [
     {
-      "title": "projects.booki.title",
-      "content": "projects.booki.content",
-      "info": "projects.booki.info",
-      "images": "https://raw.githubusercontent.com/Aby-Camille/Openclassrooms_Project8/master/src/images/Booki.webp",
-      "imageAlt": "photo booki website",
-      "sourceCode": "https://github.com/Aby-Camille/Openclassrooms_Project2"
-    },
-    {
         "title": "projects.sophie.title",
         "content": "projects.sophie.content",
         "info": "projects.sophie.info",
@@ -38,5 +30,13 @@
         "images": "https://raw.githubusercontent.com/Aby-Camille/Openclassrooms_Project8/master/src/images/Grimoire.webp",
         "imageAlt": "photo grimoire website",
         "sourceCode": "https://github.com/Aby-Camille/Openclassrooms_Project7"
+      },
+      {
+        "title": "projects.booki.title",
+        "content": "projects.booki.content",
+        "info": "projects.booki.info",
+        "images": "https://raw.githubusercontent.com/Aby-Camille/Openclassrooms_Project8/master/src/images/Booki.webp",
+        "imageAlt": "photo booki website",
+        "sourceCode": "https://github.com/Aby-Camille/Openclassrooms_Project2"
       }
   ]
