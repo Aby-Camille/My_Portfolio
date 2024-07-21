@@ -9,7 +9,7 @@
     "subtitle": "Web Developer in Rennes",
     "1": "After obtaining a research Master's degree in Chinese in 2020, I am currently undergoing professional retraining.",
     "2": "Following my training in web development, I am now looking for a work-study program to continue in this field.",
-    "3": "I am proficient in HTML, CSS, JavaScript, Node.js and React.",
+    "3": "I am proficient in HTML, CSS, JavaScript, Node.js and React. Learning the Python language.",
     "4": "Please do not hesitate to contact me.",
     "5": "Download my CV"
   },
@@ -41,7 +41,7 @@
     "flix": {
       "title": "Myflix",
       "content": "Creation of a media center type movie streaming site",
-      "info": "This is my new personal project in progress. Inspired by the Netflix style, this project is carried out with the Next.js framework (React & Node), Typescript, Tailwind css, MongoDB, Prisma and Vercel."
+      "info": "This is my new personal project in progress. Inspired by the Netflix style, this project is carried out with the Next.js framework (React & Node), Typescript, Tailwind css, MongoDB, Prisma and Raspberry-pi for hosting."
     }
   },
   "my-skills": {
@@ -55,7 +55,12 @@
     "3": "Misc",
     "p5": "Agile approach",
     "p6": "Optimisation",
-    "p7": "Debugging"
+    "p7": "Debugging",
+    "4": "In progress",
+    "p8": "Prisma ORM",
+    "p9": "OCR",
+    "p10": "Tailwind CSS",
+    "p11": "Website hosting"
   },
   "footer": {
     "1": "Contact"

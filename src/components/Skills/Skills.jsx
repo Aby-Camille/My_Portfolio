@@ -9,6 +9,10 @@ import expressjs from "../../assets/expressjs.svg";
 import sass from "../../assets/sass.svg";
 import lighthouse from "../../assets/lighthouse.svg";
 import wave from "../../assets/wave.svg";
+import next from "../../assets/next.svg";
+import python from "../../assets/python.svg";
+import typescript from "../../assets/typescript.svg";
+import raspberry from "../../assets/raspberry.svg";
 import { useTranslation } from 'react-i18next';
 
 
@@ -61,6 +65,25 @@ export default function Skills() {
                         <p>{ t('my-skills.p5') }</p>
                         <p>{ t('my-skills.p6') }</p>
                         <p>{ t('my-skills.p7') }</p>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+    <div className="skills-content">
+        <div className='card-skills'>
+                <h3>{ t('my-skills.4') }</h3>
+                <div className='img-skills'>
+                    <img src={next} alt="next-logo" className='icon' />
+                    <img src={python} alt="python-logo" className='icon' />
+                    <img src={typescript} alt="typescript-logo" className='icon' />
+                    <img src={raspberry} alt="raspberry-logo" className='icon' />
+                    <div className='overlay'>
+                        <div className="text">
+                        <p>{ t('my-skills.p8') }</p>
+                        <p>{ t('my-skills.p9') }</p>
+                        <p>{ t('my-skills.p10') }</p>
+                        <p>{ t('my-skills.p11') }</p>
                         </div>
                     </div>
                 </div>

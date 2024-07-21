@@ -9,7 +9,7 @@
       "subtitle": "住在雷恩的软件开发人员",
       "1": "2020年获得中文研究型硕士学位后, 正在经历专业再培训.",
       "2": "在专业培训结束后我需要找一家公司进行专业实习，希望实习结束后可以在此公司长期工作.",
-      "3": "我擅长使用 HTML, CSS, JavaScript, Node.js 和 React.",
+      "3": "我擅长使用 HTML, CSS, JavaScript, Node.js 和 React. 学习 Python 语言.",
       "4": "请随时与我联系.",
       "5": "下载我的简历"
     },
@@ -41,7 +41,7 @@
       "flix": {
         "title": "Myflix",
         "content": "创建媒体中心类型的电影流媒体网站",
-        "info": "这是我正在进行的新个人项目. 受 Netflix 风格的启发, 该项目使用 Next.js 框架(React 和 Node), Typescript, Tailwind css, MongoDB, Prisma 和 Vercel 进行."
+        "info": "这是我正在进行的新个人项目. 受 Netflix 风格的启发, 该项目使用 Next.js 框架(React 和 Node), Typescript, Tailwind css, MongoDB, Prisma 和 Raspberry-pi 用于托管."
       }
     },
     "my-skills": {
@@ -55,7 +55,12 @@
       "3": "各种各样的",
       "p5": "敏捷方法",
       "p6": "优化",
-      "p7": "调试"
+      "p7": "调试",
+      "4": "进行中",
+      "p8": "Prisma ORM",
+      "p9": "OCR",
+      "p10": "Tailwind CSS",
+      "p11": "网站托管"
     },
     "footer": {
       "1": "联系方式"

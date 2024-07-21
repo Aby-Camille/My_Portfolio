@@ -9,7 +9,7 @@
     "subtitle": "Développeuse Web à Rennes",
     "1": "Après avoir obtenue un diplôme de master de recherche en chinois en 2020, je suis actuellement en reconversion professionelle.",
     "2": "Suite à une formation en développement Web, je suis maintenant à la recherche d'une alternance pour poursuivre dans ce domaine.",
-    "3": "Je suis à l'aise avec l'HTML, le CSS, le JavaScript, Node.js et React.",
+    "3": "Je suis à l'aise avec l'HTML, le CSS, le JavaScript, Node.js et React. En apprentissage du langage Python.",
     "4": "N'hésitez pas à me contacter.",
     "5": "Télécharger mon CV"
   },
@@ -41,7 +41,7 @@
     "flix": {
       "title": "Myflix",
       "content": "Création d'un site de streaming de films de type media center",
-      "info": "Il s'agit de mon nouveau projet personnel en cours. Inspiré du style Netflix, ce projet est réalisé avec le framework Next.js (React & Node), Typescript, Tailwind css, MongoDB, Prisma et Vercel."
+      "info": "Il s'agit de mon nouveau projet personnel en cours. Inspiré du style Netflix, ce projet est réalisé avec le framework Next.js (React & Node), Typescript, Tailwind css, MongoDB, Prisma et Raspberry-pi pour l'hébergement."
     }
   },
   "my-skills": {
@@ -55,7 +55,12 @@
     "3": "Divers",
     "p5": "Méthode agile",
     "p6": "Optimisation",
-    "p7": "Debogage"
+    "p7": "Debogage",
+    "4": "En cours",
+    "p8": "ORM Prisma",
+    "p9": "OCR",
+    "p10": "Tailwind CSS",
+    "p11": "Hébergement de site"
   },
   "footer": {
      "1": "Contact"
