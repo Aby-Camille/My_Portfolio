@@ -1,15 +1,19 @@
 {
   "files": {
     "main.css": "/My_Portfolio/static/css/main.8d20f88b.css",
-    "main.js": "/My_Portfolio/static/js/main.b83ef946.js",
+    "main.js": "/My_Portfolio/static/js/main.f34564c0.js",
     "static/js/453.acca0757.chunk.js": "/My_Portfolio/static/js/453.acca0757.chunk.js",
     "static/media/CV_Camille_Lavenant_2024.pdf": "/My_Portfolio/static/media/CV_Camille_Lavenant_2024.41f3a9e25085a4af23e3.pdf",
     "static/media/Banner.webp": "/My_Portfolio/static/media/Banner.33466456cf7dcd2f0665.webp",
     "static/media/lighthouse.svg": "/My_Portfolio/static/media/lighthouse.09725958b785a5b54265a619980a6b17.svg",
     "static/media/sass.svg": "/My_Portfolio/static/media/sass.4aec5b382169dfda34bb98650dfe65ca.svg",
+    "static/media/raspberry.svg": "/My_Portfolio/static/media/raspberry.4e822f189120235c34ca6c504a4a5d29.svg",
     "static/media/react.svg": "/My_Portfolio/static/media/react.f57b349b4d9df56c9b48c916a8d5adfb.svg",
     "static/media/nodejs.svg": "/My_Portfolio/static/media/nodejs.a7f2ccf30eed3e5878a2ba1e6be108a2.svg",
     "static/media/mongodb.svg": "/My_Portfolio/static/media/mongodb.eb842895e80bd61dd471f2b70345feab.svg",
+    "static/media/typescript.svg": "/My_Portfolio/static/media/typescript.c76204988f8496c480cbab87d1604986.svg",
+    "static/media/python.svg": "/My_Portfolio/static/media/python.439dd3d27dbba23fa07acb94633c7a7d.svg",
+    "static/media/next.svg": "/My_Portfolio/static/media/next.1b2b52c044b9dcea988e68b966864c5a.svg",
     "static/media/wave.svg": "/My_Portfolio/static/media/wave.5ef88d10398dd7a7e7881c36ca205115.svg",
     "static/media/expressjs.svg": "/My_Portfolio/static/media/expressjs.076c798a78385ade2dc698f1a1d92613.svg",
     "index.html": "/My_Portfolio/index.html",
@@ -17,11 +21,11 @@
     "static/media/css.svg": "/My_Portfolio/static/media/css.315b8fdb9dbf75ae965b80bf368895cd.svg",
     "static/media/html.svg": "/My_Portfolio/static/media/html.0107c93943a8f415b5db64ebb0a9d12d.svg",
     "main.8d20f88b.css.map": "/My_Portfolio/static/css/main.8d20f88b.css.map",
-    "main.b83ef946.js.map": "/My_Portfolio/static/js/main.b83ef946.js.map",
+    "main.f34564c0.js.map": "/My_Portfolio/static/js/main.f34564c0.js.map",
     "453.acca0757.chunk.js.map": "/My_Portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8d20f88b.css",
-    "static/js/main.b83ef946.js"
+    "static/js/main.f34564c0.js"
   ]
 }
