@@ -1,4 +1,3 @@
-import { NavLink } from 'react-router-dom';
 import React, { useState } from 'react';
 import { HashLink } from 'react-router-hash-link';
 
@@ -28,7 +27,15 @@ export default function Header () {
         }    
     }
 
-// i18n.changeLanguage() is used to change the language assigned to lng in i18n.js file.
+    //scrolling to top of the page
+    const scrollToTop = () => {
+        window.scrollTo({
+        top: 0,
+        behavior: "smooth",
+      });
+    }
+
+    // i18n.changeLanguage() is used to change the language assigned to lng in i18n.js file.
     const chooseLanguage = (e) => {
         e.preventDefault();
         i18n.changeLanguage(e.target.value);
@@ -40,7 +47,7 @@ export default function Header () {
     return (
         <div className={color ? 'header header-bg' : 'header'}>
             <nav className='navbar'>
-            <NavLink to='/'><h1 className='header-name'>Portfolio</h1></NavLink>
+            <button className='btn-header' onClick={scrollToTop}><h1 className='header-name'>Portfolio</h1></button>
                 <div className='nav-scroll' onClick={handleClick}>   
                 </div>
                 <ul className={click ? "nav-menu active" : "nav-menu"}>
