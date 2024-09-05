@@ -1,6 +1,6 @@
 ## My Portfolio - Openclassrooms Projet n°8
 
-Création d'une single page personnelle avec React (intégration de i18n, typewriter, hashlink)
+Création d'une single page personnelle avec React et déploiement avec github page (intégration de i18n, typewriter, hashlink)
 
 ![image](https://github.com/Aby-Camille/Openclassrooms_Project8/blob/master/src/images/My-portfolio.png)
 
