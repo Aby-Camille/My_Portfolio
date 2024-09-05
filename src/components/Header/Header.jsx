@@ -27,6 +27,8 @@ export default function Header () {
         }    
     }
 
+    window.addEventListener('scroll', changeColor)
+
     //scrolling to top of the page
     const scrollToTop = () => {
         window.scrollTo({
@@ -41,8 +43,6 @@ export default function Header () {
         i18n.changeLanguage(e.target.value);
         setSelectedLanguage(e.target.value);
     }
-
-    window.addEventListener('scroll', changeColor)
 
     return (
         <div className={color ? 'header header-bg' : 'header'}>
