@@ -1,6 +1,6 @@
 import '../About/About.scss';
 import { useTranslation } from 'react-i18next';
-import cvLink from "../../assets/CV_Camille_Lavenant_2024.pdf";
+import cvLink from "../../assets/CV_Camille_Lavenant_2025.pdf";
 
 export default function About() {
     const { t } = useTranslation();
@@ -24,7 +24,7 @@ export default function About() {
                     <br />
                 </p>
                 <div className='content-link'>
-                    <a href={cvLink} download="CV_Camille_Lavenant_2024.pdf" className='a-link' >{ t('about.5') }</a>
+                    <a href={cvLink} download="CV_Camille_Lavenant_2025.pdf" className='a-link' >{ t('about.5') }</a>
                 </div>
             </div>
         </section>
